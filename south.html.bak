@@ -1,0 +1,109 @@
+<html>
+<head>
+<title> 360 Degree </title>
+<style>
+
+a:hover {
+  background-color: #acd9f9;
+   
+}
+
+body{
+font-family:verdana;
+color:#e4e8ea;
+}
+</style>
+</head>
+<body bgcolor="#3459b7">
+<table width ='20%' border=0 align='left'>
+<tr>
+<td><img src='images\logo.jpg'></td>
+</tr>
+<table>
+<marquee scrollamount=2 scrolldelay=2 bgcolor='#80c7f9'> <font face='verdana'> For More Information Contact with our Customer care at 983198310 at 9am to 10pm except Monday * or mail us at 360degree@360degree.com </font></marquee>
+<br>
+<table width=70% border=0 cellpadding=8 cellspacing=7 align='center'>
+<tr>
+<th> <a href='index.html' style='text-decoration:none' > Home </a> </th>
+<th> <a href='register.html' style='text-decoration:none' >  Register  </a></th>
+<th>  <a href='go.html' style='text-decoration:none' > Let's Go  </a></th>
+<th> <a href='contact.html' style='text-decoration:none' >  Contact Us </a></th>
+<th> <a href='director.html' style='text-decoration:none' >  Director Desk </a> </th>
+</tr>
+</table>
+
+
+<h1 align='center'> <font color='#dcf223'> South India </font>  </h1>
+
+<table width=80% border=1 cellpadding=20 cellspacing=10 align='center'>
+<tr>
+<td> <img src='images\s12.jpg' width='100%'></td>
+</tr>
+</table>
+
+
+<p align='justify'> <font color='#a0dbf9'> South India Overview </font>
+<br>
+The charm of South India can be best defined through mesmerising hill stations, majestic
+ temples, lush green forests and best beaches. These four naturally occurring and diverse
+ terrains make up the Southern India. South India is famous for its vibrant culture, 
+ delectable food, among other manmade marvels. One can rejuvenate their senses by visiting
+ serene places like Kerala, Pondicherry, Ooty, Mysore and more. The delicate, intrinsic and 
+ detailed architecture are unparalleled and cannot be found anywhere else.</p>
+ 
+ 
+ <p align='justify'>
+ Travelogy India makes your visit memorable one by offering one of the most pocket friendly 
+ South India tour packages. You can select a package that suits your needs the most by browsing
+ through our impressive itineraries like temple visits, sightseeing, authentic spa ayurveda and 
+ relaxing your days away on the pure beaches.
+Your South India trip will remain incomplete without a visit to the god’s own country Kerala. The vast diversity offers several choices for a curious traveller. Karnataka, Tamilnadu, Andhra Pradesh, Andaman Nicobar Islands and Lakshadweep are ranks in the top of the list of South India.
+</p>
+ 
+<p>
+<font color='#a0dbf9'> Karnataka and Kerala Tour  </font><br>
+<b> Destination :</b> Bangalore - Mysore - Ooty - Cochin - Alleppey - Kumarakom - Kovalam - Trivandrum 
+<br>
+<b> Highlights of Tour : </b>
+<ul>
+<li> Tipu Sultan Palace, ISKCON Temple, Lal Bagh Garden in Bangalore </li>
+<li>Maharaja Palace, Brindavan Gardens and Chamundi Hills </li>
+<li>Bandipur and Mudumalai Wildlife Sanctuaries enroute to Ooty </li>
+<li>Enjoy Kathakali Dance at Cochin </li>
+<li>Fort, Chinese fishing net and St. Francis Church at Cochin </li>
+<li>Vembanad Lake and Bird Sanctuary at Kumarakom </li>
+<li>Ayurveda massage and Spa at Kovalam </li>
+<li>Akkulam boat club and Velli Village, Trivandrum </li>
+</ul>
+</p>
+
+
+<table width=85% border=0 cellpadding=20 cellspacing=10 align='center'>
+<tr>
+<td> <img src='images\s3.jpg' height=130 width=200 border=0 > 
+<img src='images\s2.jpg' height=130 width=200 border=0 >
+<img src='images\s1.jpg' height=130 width=200 border=0 >
+<img src='images\s4.jpg' height=130 width=200 border=0 >
+<img src='images\s2.jpg' height=130 width=200 border=0 >
+
+</td>
+</tr>
+
+</table>
+
+
+
+
+<br>
+
+
+<div class="footer">
+  <h2>This website is developed by : Soudip Pramanik.</h2><br>
+ <h5> Contact:9038816347</h5>
+</div>
+
+
+
+</body>
+
+</html>

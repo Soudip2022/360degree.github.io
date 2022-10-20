@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>my page</title>
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    padding: 30px;
+    background: #f1f1f1;
+}
+
+.header {
+    padding: 30px;
+    text-align: center;
+    background: #3459b7;
+}
+
+
+
+old.header h1 {
+    font-size: 80px;
+}
+
+
+/* Footer */
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+    margin-top: 20px;
+}
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+    background-color: #3459b7;
+    color: black;
+}
+
+ a.b:hover {
+    background-color: white;
+    color: black;
+}
+
+
+
+
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {   
+    float: left;
+    width: 100%;
+}
+
+
+/* Add a card effect for articles */
+.card {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+
+/* Clear floats after the columns */
+.main:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+    .leftcolumn, .rightcolumn {   
+        width: 100%;
+        padding: 0;
+    }
+	.header h1 {
+    font-size: 50px;
+}
+
+	
+	
+	
+}
+
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+    .topnav a {
+        float: none;
+        width: 100%;
+    }
+	
+	.header h1 {
+    font-size: 20px;
+}
+
+}
+
+
+.image
+{
+size:auto;
+overflow:hidden;
+}
+
+
+
+</style>
+</head>
+<body>
+
+<div class="header">
+<img src='images\logo.jpg'>
+  
+  <p>World Class Tour With World Class Facilty</p>
+</div>
+
+
+<div class="topnav">
+  <a href="#">Home</a>
+  <a href="register.html">Register</a>
+  <a href="go.html">Let's Go</a>
+    <a href="contact.html">Contact Us</a>
+  <a href="director.html" style="float:right" class='b'>Director Desk</a>
+</div>
+
+<div class='main'>
+
+<div class='leftcolumn '>
+<div class='card'>
+<h1> Travel with the best tour packages in India </h1>
+
+<p>Making corporate business travel trips and group tours fun, exciting, stress-free and, of course, 
+affordable, Discovery Holidays is a name travel lovers, companies, institutions across India, 
+trust. With 20 years of experience under our belt, we are one of the best travel agencies in 
+Kolkata & India, dedicated to deliver the finest of travel & tour experience to our clients.</p>
+
+<h1> Our Customer-Centric </h1>
+<p> We understand each individual and group have their own distinct travelling needs and budget.
+ And with our client-centric services, we value your choices and decisions atop. With our wide spectrum 
+ of customized and special packages, we cater all—from individual travelers to honeymooners, pilgrim 
+ groups to corporate business travelers, and holiday tour groups to adventure and cruise lovers. As
+ one of the leading travel companies in India, we care for our customers.</p>
+
+<div class='image'>
+<img src='images\h1.jpg'>
+</div>
+
+</div>
+
+<div class='card'>
+
+<h1> We Understand Your Varied Needs as the Best Kolkata Travel Agency </h1>
+<p> Are you planning to take your family on a luxury tour to Majestic Europe or want to hit Goa 
+with your gang? Or are you on the brink of a life-changing decision to get lost in the bliss of
+ Himachal and North-East for few days? Or maybe your job is taking you places and you want things
+ to be arranged for you easily? As the best India tour operators, Discovery Holidays assures to 
+ deliver you with astute precision an awesome travel experience that you have envisioned. Let us 
+ help you add some exciting pages to the chapters of your travel book in this life! </p>
+
+ <h1> Why Choose Us As Your ?</h1>
+<p> From tickets booking to the end of the tour, on our quest to offer maximum convenience to all 
+of you, we take care of everything from top to bottom. So no more hassles of connecting all the loose 
+ends alone and no more spending extravagantly. With one of the best tour operators in India by your side,
+ prep yourself up for the best of traveling or holidaying experience at the most competitive rates and 
+ we bet that you would be in love with the idea of holidaying and planning trips once you have chosen
+ Discovery Holidays! So get in touch right now, we are ready to overwhelm you with our services!</p>
+<div class='image'>
+ <img src='images\h2.jpg'>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+</div>
+
+
+
+
+<div class="footer">
+  <h2>This website is developed by : Soudip Pramanik.</h2><br>
+ <h5> Contact:9038816347</h5>
+</div>
+</body>
+
+
+</html>

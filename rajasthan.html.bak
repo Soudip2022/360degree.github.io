@@ -1,0 +1,154 @@
+<html>
+<head>
+<title> 360 Degree </title>
+<style>
+
+a:hover {
+  background-color: #acd9f9;
+   
+}
+
+body{
+font-family:verdana;
+color:#e4e8ea;
+}
+</style>
+</head>
+<body bgcolor="#3459b7">
+<table width ='20%' border=0 align='left'>
+<tr>
+<td><img src='images\logo.jpg'></td>
+</tr>
+<table>
+<marquee scrollamount=2 scrolldelay=2 bgcolor='#80c7f9'> <font face='verdana'> For More Information Contact with our Customer care at 983198310 at 9am to 10pm except Monday * or mail us at 360degree@360degree.com </font></marquee>
+<br>
+<table width=70% border=0 cellpadding=8 cellspacing=7 align='center'>
+<tr>
+<th> <a href='index.html' style='text-decoration:none' > Home </a> </th>
+<th> <a href='register.html' style='text-decoration:none' >  Register  </a></th>
+<th>  <a href='go.html' style='text-decoration:none' > Let's Go  </a></th>
+<th> <a href='contact.html' style='text-decoration:none' >  Contact Us </a></th>
+<th> <a href='director.html' style='text-decoration:none' >  Director Desk </a> </th>
+</tr>
+</table>
+
+
+<h1 align='center'> <font color='#dcf223'> Rajasthan </font>  </h1>
+
+<table width=80% border=1 cellpadding=20 cellspacing=10 align='center'>
+<tr>
+<td> <img src='images\r4.jpg' width='100%'></td>
+</tr>
+</table>
+
+
+<p> <font color='#a0dbf9'> <b> Rajasthan Land of Kings </b> </font></p> 
+<p align='justify'> One of the jewels in India's crown, Rajasthan is probably at its most appealing when seen from
+ the berth of an express train. An epic railway journey across India's largest state reveals 
+ sleepy villages frozen in time many centuries ago, ancient fortresses and temples with
+ commanding views over the surrounding landscape, and giant cities teeming with life, noise,
+ heat, color, and spice. To see as much as you can during your trip to Rajasthan, explore the
+ famous Golden Triangle, which includes the cities of Delhi, Jaipur, and Agra, home of the
+ Taj Mahal. Other notable destinations worthy of a well-rounded Rajasthan itinerary include 
+ Bikaner, famed for its sweets, and Udaipur, known for its lakes and romantic backdrops.
+ Rajasthan is in India. </p>
+
+
+
+
+<p><b> Rajasthan Location </b></p>
+<p align='justify'> Rajasthan is situated in the north-western part of India. It covers 342,239 square 
+kilometres (132,139 square miles). Rajasthan lies between latitudes 23 degree 3'and 30
+ degree 12', north and longitudes 69 degree 30' and 78 degree 17', east. Compared to many
+ countries that are located in a similar latitudinal belt, such as in northern Arabia, 
+ Rajasthan has a less harsh climate. The State's scorching and dry summers and its parched
+ landscape is undergoing significant changes because of the developmental effort that have
+ led to the spread of the Indira Gandhi Nahar.</p>
+
+
+<p align='justify'> The southern part of Rajasthan is about 225 km from the Gulf of Kutch and 
+about 400 km from the Arabian Sea. Rajasthan is bounded by Pakistan in the west and north-west; 
+by the State of Punjab in the north; by Haryana in the north-east; by Uttar Pradesh in the east,
+ by Madhya Pradesh in the south-east and Gujarat in the south-west.,</p> 
+<p align='justify'> The Aravali mountain ranges that run from Delhi to Gujarat cut through the
+ State almost vertically. The Aravali ranges divide the State through south-east and north-west.
+ The north-west region covering two-thirds of the state consist mostly of a series of sand dunes.
+ Bikaner, Jaisalmer, Jodhpur and part of the Jhunjhunu districts form part of this region.
+ The eastern region has large fertile tracts.</p>
+
+
+
+<p> <b>Climate </b></p> 
+<p align='justify'> The climate of Rajasthan varies from semi arid to arid. The mercury touches 
+49 degrees centigrade at some places during summer and drops below freezing point during winter.
+
+Though the average annual rainfall ranges between 200-400 mm, it is as low as 150 mm in extreme
+ arid zones and as high as 1000 mm in the south eastern part of the State. Most of the rainfall
+ (60-80%) is received with the South west monsoon in the period from July to September.
+ The average number of rainy days vary from 6 to 42 depending on the aridity of the area.</p>
+
+<p><b> State Symbols:</b></p>
+<ul>
+<li> State Tree - Khejari </li> 
+<li> State Flower - Rohida </li> 
+<li> State Bird - Godawan or Great Indian Bustard </li> 
+<li> State Animal - Chinkara (an antelope) </li> 
+</ul>
+
+
+<p> Festivals :</p>
+<ul>
+<li> Camel Festival  </li> 
+<li> Nagaur Fair </li> 
+<li> Mewar Festival</li> 
+<li> Kaila Devi Fair</li> 
+<li> Mahavir Ji Fair</li> 
+<li> Summer Festival</li> 
+<li> Teej Festival</li> 
+<li>Gogaji Fair</li> 
+<li> Kaliteej</li> 
+<li> Ramdevra Fair</li> 
+<li> Marwar Festival</li> 
+<li> Dusshera</li> 
+<li> Pushkar Fair</li> 
+<li> Chandrabhaga Fair</li> 
+<li> Kolyat Fair</li> 
+
+</ul>
+
+
+<table width=85% border=0 cellpadding=20 cellspacing=10 align='center'>
+<tr>
+<td> <img src='images\r3.jpg' height=130 width=200 border=0 > 
+<img src='images\r2.jpg' height=130 width=200 border=0 >
+<img src='images\r6.jpg' height=130 width=200 border=0 >
+<img src='images\r4.jpg' height=130 width=200 border=0 >
+<img src='images\r2.jpg' height=130 width=200 border=0 >
+
+</td>
+</tr>
+
+</table>
+
+
+
+
+
+<br>
+
+
+<div class="footer">
+  <h2>This website is developed by : Soudip Pramanik.</h2><br>
+ <h5> Contact:9038816347</h5>
+</div>
+
+
+
+
+
+
+
+
+</body>
+
+</html>
